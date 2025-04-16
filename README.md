@@ -59,5 +59,6 @@ These models are responsible for summarization and content generation.
 - Integration with task management tools (Trello, Jira, etc.)  
 - Direct connection with platforms like Zoom and Google Meet  
 
+![LLaMA Output](lama_output-16%20211312.png)
 
 
